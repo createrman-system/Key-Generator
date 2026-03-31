@@ -4,7 +4,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/createrman-system/key-generator?style=social)](https://github.com/createrman-system/key-generator)
 [![GitHub Forks](https://img.shields.io/github/forks/createrman-system/key-generator?style=social)](https://github.com/createrman-system/key-generator)
-[![Downloads](https://img.shields.io/github/downloads/createrman-system/key-generator/total)](https://github.com/createrman-system/key-generator/releases)
 [![Latest Release](https://img.shields.io/github/v/release/createrman-system/key-generator)](https://github.com/createrman-system/key-generator/releases)
 
 A powerful and secure tool for generating cryptographically strong random keys with flexible character sets, safe file handling, and both **CLI** and **GUI** interfaces.
